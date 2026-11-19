@@ -1,0 +1,4 @@
+Leaflet 1.9.4: https://leafletjs.com and https://github.com/Leaflet/Leaflet/tree/v1.9.4
+Reused existing local leaflet.js/css assets from the prior location-2006 build. Version banner verified. BSD 2-Clause license included from the official v1.9.4 LICENSE.
+Montserrat variable font: existing local Montserrat.ttf and OFL.txt from the prior pricing build; OFL copyright identifies the Montserrat Project Authors. Browser loading verified.
+Runtime basemap: CARTO light_nolabels, with OpenStreetMap and CARTO attribution. Internet required. Live tiles were blocked in the local template QA environment; verify connected tile loading for every delivered project.
